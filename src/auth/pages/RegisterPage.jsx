@@ -13,7 +13,6 @@ const formData = {
     displayName: '',
 }
 
-
 export const RegisterPage = () => {
     
     const dispatch = useDispatch()

@@ -12,7 +12,6 @@ export const CheckingAuth = () => {
         >
 
             <Box
-                item
                 direction='row'
                 justifyContent='center'
             >
